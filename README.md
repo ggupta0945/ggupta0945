@@ -1,0 +1,6 @@
+MNISTDigitSequence
+
+jghk
+hkhjk
+sdf 
+
